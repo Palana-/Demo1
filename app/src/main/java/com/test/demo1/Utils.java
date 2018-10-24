@@ -5,5 +5,6 @@ public class Utils {
         int i=0;
         long l=0;
         String str="";
+        Object obj=null;
     }
 }
